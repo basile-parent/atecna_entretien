@@ -20,5 +20,6 @@ Lancer l'application via la commande `npm start` et vérifier que tout est OK à
    6. Afficher l'heure dans la balise _&lt;time&gt;_ (vous pouvez utiliser la méthode _Date::toLocaleTimeString_): l'heure se rafraichit toutes les secondes
    7. Typer le composant (les dépendances sont déjà installées)
    8. Supprimer la balise _&lt;div&gt;_ à la racine du _return_
-   9. Utiliser la méthode `userUtils.veryComplexScoreCalculation` pour calculer le "score" des utilisateurs
+   9. Typer la classe userUtils + Utiliser la méthode `userUtils.veryComplexScoreCalculation` pour calculer le "score" des utilisateurs
    10. Implémenter les tests (selon ce qui vous semble le plus judicieux)
+   11. Transformer l'horloge en HOC et injecter l'heure au composant App
